@@ -1,2 +1,4 @@
-# Teste-Guanabara
- Primeiro teste versionado 
+# Olá, Mundo!
+ Primeiro teste do curso em video 
+
+ Repositório criado durante a aula 
